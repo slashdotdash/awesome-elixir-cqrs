@@ -29,7 +29,10 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ## Community resources
 
-- [DDD/CQRS/ES Slack](http://ddd-cqrs-es.herokuapp.com/) - A slack team for those who want to chat about domain-driven design, CQRS, event Sourcing, and sometimes random things. Main channel is language and framework agnostic.
+- [DDD/CQRS/ES Slack](https://ddd-cqrs-es.slack.com) - A Slack team for those who want to chat about domain-driven design, CQRS, event Sourcing, and sometimes random things. Main channel is language and framework agnostic.
+
+- [Elixir lang Slack](https://elixir-lang.slack.com/) - This offical Elixir language Slack team includes an [#eventsourcing](https://elixir-lang.slack.com/messages/C2REECQ1Z/) channel for CQRS/ES and Elixir discussion.
+
 
 ## Books
 
