@@ -64,6 +64,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Intro to Event Sourcing and CQRS](https://drteeth.github.io/elixir-es-cqrs/) in Elixir by [Ben Moss](https://twitter.com/benjamintmoss)
 
+- [Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming](https://www.youtube.com/watch?v=kq4qTk18N-c) at ElixirConf 2017 by [Rob Martin](https://twitter.com/version2beta)
+
 ## Example applications
 
 - [Conduit](https://github.com/slashdotdash/conduit) - A blogging platform, an exemplary Medium.com clone, built as a Phoenix web application.
