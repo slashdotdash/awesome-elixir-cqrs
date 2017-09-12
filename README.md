@@ -13,17 +13,19 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ## Libraries
 
+- [Chronik](https://hex.pm/packages/chronik) - A lightweight event sourcing micro framework for Elixir.
+
 - [Commanded](https://github.com/slashdotdash/commanded) - Use Commanded to build your own Elixir applications following the CQRS/ES pattern. Provides support for command registration and dispatch, hosting and delegation to aggregate roots, event handling, and long running process managers.
 
-- [Commanded audit middleware](https://github.com/slashdotdash/commanded-audit-middleware) - Command auditing middleware for Commanded CQRS/ES applications using Ecto for persistence.
+    - [Commanded audit middleware](https://github.com/slashdotdash/commanded-audit-middleware) - Command auditing middleware for Commanded CQRS/ES applications using Ecto for persistence.
 
-- [Commanded Ecto projections](https://github.com/slashdotdash/commanded-ecto-projections) - Read model projections for Commanded using Ecto.
+    - [Commanded Ecto projections](https://github.com/slashdotdash/commanded-ecto-projections) - Read model projections for Commanded using Ecto.
 
 - [Eidetic](https://github.com/GT8Online/eidetic-elixir) - An event sourcing library for Elixir.
 
 - [EventStore](https://github.com/slashdotdash/eventstore) - An Elixir event store using PostgreSQL for persistence.
 
-- [EventStore migrator](https://github.com/slashdotdash/eventstore-migrator) - Copy & transform event migration strategy for [EventStore](https://github.com/slashdotdash/eventstore).
+    - [EventStore migrator](https://github.com/slashdotdash/eventstore-migrator) - Copy & transform event migration strategy for [EventStore](https://github.com/slashdotdash/eventstore).
 
 - [Extreme](https://github.com/exponentially/extreme) - Elixir adapter for Greg Young's [Event Store](https://geteventstore.com/).
 
@@ -34,7 +36,6 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 - [DDD/CQRS/ES Slack](https://ddd-cqrs-es.slack.com) - A Slack team for those who want to chat about domain-driven design, CQRS, event Sourcing, and sometimes random things. Main channel is language and framework agnostic.
 
 - [Elixir lang Slack](https://elixir-lang.slack.com/) - This offical Elixir language Slack team includes an [#eventsourcing](https://elixir-lang.slack.com/messages/C2REECQ1Z/) channel for CQRS/ES and Elixir discussion.
-
 
 ## Books
 
