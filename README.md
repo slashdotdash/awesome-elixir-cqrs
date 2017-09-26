@@ -61,11 +61,13 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [CQRS with Erlang](https://vimeo.com/97318824) by [Bryan Hunter](https://twitter.com/bryan_hunter) @ NDC 2014 - Dive into CQRS, and explore a sample implementation written in Erlang. [ [slides](https://github.com/bryanhunter/cqrs-with-erlang/raw/ndc-oslo/cqrs-with-erlang.pptx) | [repo](https://github.com/bryanhunter/cqrs-with-erlang/tree/ndc-oslo) ]
 
+- [Event Sourcing with Commanded](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) by [Andriy Drozdyuk](https://twitter.com/andriyko). [ [slides](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017/raw/2398395ef908696c580800be37a0cdbb1a7d60be/presentation/Eventsourcing%20with%20Commanded.pdf) (PDF) | [repo](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) ]
+
 - [Implementing CQRS on top of OTP (in Elixir)](http://slides.com/hubertlepicki/implementing-cqrs-in-elixir) by Hubert Łępicki.
 
-- [Intro to Event Sourcing and CQRS](https://drteeth.github.io/elixir-es-cqrs/) in Elixir by [Ben Moss](https://twitter.com/benjamintmoss)
+- [Intro to Event Sourcing and CQRS](https://drteeth.github.io/elixir-es-cqrs/) in Elixir by [Ben Moss](https://twitter.com/benjamintmoss).
 
-- [Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming](https://www.youtube.com/watch?v=kq4qTk18N-c) at ElixirConf 2017 by [Rob Martin](https://twitter.com/version2beta)
+- [Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming](https://www.youtube.com/watch?v=kq4qTk18N-c) at ElixirConf 2017 by [Rob Martin](https://twitter.com/version2beta).
 
 ## Example applications
 
