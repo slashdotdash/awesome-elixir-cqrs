@@ -9,6 +9,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 - [Books](#books)
 - [Articles](#articles)
 - [Presentations](#presentations)
+- [Screencasts](#screencasts)
 - [Example applications](#example-applications)
 
 ## Libraries
@@ -68,6 +69,10 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 - [Intro to Event Sourcing and CQRS](https://drteeth.github.io/elixir-es-cqrs/) in Elixir by [Ben Moss](https://twitter.com/benjamintmoss).
 
 - [Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming](https://www.youtube.com/watch?v=kq4qTk18N-c) at ElixirConf 2017 by [Rob Martin](https://twitter.com/version2beta).
+
+## Screencasts
+
+- [Building a single event sourced feature in Elixir using Commanded](https://www.youtube.com/watch?v=n7v73Rbk670) by [Shawn McCool](https://twitter.com/ShawnMcCool).
 
 ## Example applications
 
