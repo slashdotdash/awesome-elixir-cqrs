@@ -16,17 +16,17 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Chronik](https://hex.pm/packages/chronik) - A lightweight event sourcing micro framework for Elixir.
 
-- [Commanded](https://github.com/slashdotdash/commanded) - Use Commanded to build your own Elixir applications following the CQRS/ES pattern. Provides support for command registration and dispatch, hosting and delegation to aggregate roots, event handling, and long running process managers.
+- [Commanded](https://github.com/commanded/commanded) - Use Commanded to build your own Elixir applications following the CQRS/ES pattern. Provides support for command registration and dispatch, hosting and delegation to aggregate roots, event handling, and long running process managers.
 
-    - [Commanded audit middleware](https://github.com/slashdotdash/commanded-audit-middleware) - Command auditing middleware for Commanded CQRS/ES applications using Ecto for persistence.
+    - [Commanded audit middleware](https://github.com/commanded/commanded-audit-middleware) - Command auditing middleware for Commanded CQRS/ES applications using Ecto for persistence.
 
-    - [Commanded Ecto projections](https://github.com/slashdotdash/commanded-ecto-projections) - Read model projections for Commanded using Ecto.
+    - [Commanded Ecto projections](https://github.com/commanded/commanded-ecto-projections) - Read model projections for Commanded using Ecto.
 
 - [Eidetic](https://github.com/GT8Online/eidetic-elixir) - An event sourcing library for Elixir.
 
-- [EventStore](https://github.com/slashdotdash/eventstore) - An Elixir event store using PostgreSQL for persistence.
+- [EventStore](https://github.com/commanded/eventstore) - An Elixir event store using PostgreSQL for persistence.
 
-    - [EventStore migrator](https://github.com/slashdotdash/eventstore-migrator) - Copy & transform event migration strategy for [EventStore](https://github.com/slashdotdash/eventstore).
+    - [EventStore migrator](https://github.com/slashdotdash/eventstore-migrator) - Copy & transform event migration strategy for [EventStore](https://github.com/commanded/eventstore).
 
 - [Extreme](https://github.com/exponentially/extreme) - Elixir adapter for Greg Young's [Event Store](https://geteventstore.com/).
 
@@ -64,7 +64,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Event Sourcing with Commanded](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) by [Andriy Drozdyuk](https://twitter.com/andriyko). [ [slides](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017/raw/2398395ef908696c580800be37a0cdbb1a7d60be/presentation/Eventsourcing%20with%20Commanded.pdf) (PDF) | [repo](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) ]
 
-- [Implementing CQRS on top of OTP (in Elixir)](http://slides.com/hubertlepicki/implementing-cqrs-in-elixir) by Hubert Łępicki.
+- [Implementing CQRS on top of OTP (in Elixir)](http://slides.com/hubertlepicki/implementing-cqrs-in-elixir) by Hubert Łępicki. [ [video](https://www.youtube.com/watch?v=0StE5LzYxGQ) ]
 
 - [Intro to Event Sourcing and CQRS](https://drteeth.github.io/elixir-es-cqrs/) in Elixir by [Ben Moss](https://twitter.com/benjamintmoss).
 
