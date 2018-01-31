@@ -22,7 +22,13 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
     - [Commanded Ecto projections](https://github.com/commanded/commanded-ecto-projections) - Read model projections for Commanded using Ecto.
 
+    - [Commanded scheduler](https://github.com/commanded/commanded-scheduler) - Schedule one-off and recurring commands for Commanded CQRS/ES applications .
+
+    - [Commanded Swarm registry](https://github.com/commanded/commanded-swarm-registry) - Distributed process registry using Swarm for Commanded.
+
 - [Eidetic](https://github.com/GT8Online/eidetic-elixir) - An event sourcing library for Elixir.
+
+- [EventBus](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
 
 - [EventStore](https://github.com/commanded/eventstore) - An Elixir event store using PostgreSQL for persistence.
 
