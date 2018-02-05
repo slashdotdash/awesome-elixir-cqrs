@@ -86,6 +86,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ## Example applications
 
+- [Bank](https://github.com/bamorim/commanded-bank) by [Bernardo Dornellas Cysneiros Gomes de Amorim](https://github.com/bamorim) - Sample Application for Elixir Brasil Talk.
+
 - [Conduit](https://github.com/slashdotdash/conduit) - A blogging platform, an exemplary Medium.com clone, built as a Phoenix web application.
 
 - [DDD Shipping Example](https://github.com/pcmarks/ddd_elixir_stage1_umbrella) by [Peter C Marks](https://github.com/pcmarks) - Elixir implementation of the shipping example from Eric Evan's "Domain-driven Design: Tackling Complexity in the Heart of Software" book.
