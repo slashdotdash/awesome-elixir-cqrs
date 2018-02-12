@@ -32,9 +32,9 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [EventStore](https://github.com/commanded/eventstore) - An Elixir event store using PostgreSQL for persistence.
 
-    - [EventStore migrator](https://github.com/slashdotdash/eventstore-migrator) - Copy & transform event migration strategy for [EventStore](https://github.com/commanded/eventstore).
-
 - [Extreme](https://github.com/exponentially/extreme) - Elixir adapter for Greg Young's [Event Store](https://geteventstore.com/).
+
+- [Maestro](https://github.com/toniqsystems/maestro) - An Elixir event store + CQRS library.
 
 - [Perhap](https://github.com/Perhap/perhap) - Purely functional event store and service framework inspired by domain driven design and reactive architectures.
 
