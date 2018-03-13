@@ -90,7 +90,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Conduit](https://github.com/slashdotdash/conduit) - A blogging platform, an exemplary Medium.com clone, built as a Phoenix web application.
 
-- [DDD Shipping Example](https://github.com/pcmarks/ddd_elixir_stage1_umbrella) by [Peter C Marks](https://github.com/pcmarks) - Elixir implementation of the shipping example from Eric Evan's "Domain-driven Design: Tackling Complexity in the Heart of Software" book.
+- [DDD Shipping Example](https://github.com/pcmarks/ddd_elixir_demo_stage1) by [Peter C Marks](https://github.com/pcmarks) - Elixir implementation of the shipping example from Eric Evan's "Domain-driven Design: Tackling Complexity in the Heart of Software" book.
 
 - [Simple Pay](https://github.com/ChrisYammine/simple_pay) by [Christopher Yammine](https://github.com/ChrisYammine) - An exploration of using CQRS/ES with Elixir & EventStore database.
 
