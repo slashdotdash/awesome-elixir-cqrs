@@ -68,6 +68,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Building CQRS/ES web applications in Elixir using Phoenix](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) by [Ben Smith](https://twitter.com/slashdotdash).
 
+- [CQRS and Event Sourcing](https://www.youtube.com/watch?v=S3f6sAXa3-c) by [Bernardo Amorim](https://github.com/bamorim) @ Code Beam SF 2018 - A look into what Event Sourcing and Command Query Responsibility Segregation are and how they fit together, followed by a tutorial on how to implement an application using these concepts with Commanded (a framework for Elixir).
+
 - [CQRS with Erlang](https://vimeo.com/97318824) by [Bryan Hunter](https://twitter.com/bryan_hunter) @ NDC 2014 - Dive into CQRS, and explore a sample implementation written in Erlang. [ [slides](https://github.com/bryanhunter/cqrs-with-erlang/raw/ndc-oslo/cqrs-with-erlang.pptx) | [repo](https://github.com/bryanhunter/cqrs-with-erlang/tree/ndc-oslo) ]
 
 - [Event Sourcing with Commanded](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) by [Andriy Drozdyuk](https://twitter.com/andriyko). [ [slides](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017/raw/2398395ef908696c580800be37a0cdbb1a7d60be/presentation/Eventsourcing%20with%20Commanded.pdf) | [repo](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) ]
@@ -86,7 +88,9 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ## Example applications
 
-- [Bank](https://github.com/bamorim/commanded-bank) by [Bernardo Dornellas Cysneiros Gomes de Amorim](https://github.com/bamorim) - Sample Application for Elixir Brasil Talk.
+- [Bank](https://github.com/bamorim/commanded-bank) by [Bernardo Amorim](https://github.com/bamorim) - Sample Application for Elixir Brasil Talk.
+
+- [Coins](https://github.com/bamorim/ex-cbsf2018) by [Bernardo Amorim](https://github.com/bamorim) - An example app using CQRS and Event Sourcing built with Commanded for a talk at CodeBEAM SF 2018.
 
 - [Conduit](https://github.com/slashdotdash/conduit) - A blogging platform, an exemplary Medium.com clone, built as a Phoenix web application.
 
