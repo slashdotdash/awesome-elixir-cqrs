@@ -38,6 +38,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Extreme](https://github.com/exponentially/extreme) - Elixir adapter for Greg Young's [Event Store](https://geteventstore.com/).
 
+- [Helios.Aggregate](https://github.com/exponentially/helios_aggregate) - Elixir library defining Aggregate behaviour and providing extendable facility for aggregate command pipeline.
+
 - [Maestro](https://github.com/toniqsystems/maestro) - An Elixir event store + CQRS library.
 
 - [Perhap](https://github.com/Perhap/perhap) - Purely functional event store and service framework inspired by domain driven design and reactive architectures.
