@@ -82,6 +82,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Event-driven architectures in Elixir](https://www.youtube.com/watch?v=8qDXG7tnl9w) by [Maciej Kaszubowski](https://github.com/mkaszubowski) @ ElixirConf EU 2018 - Learn how you can improve your architecture and reduce coupling by using events. [ [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/875/original/Maciej_Kaszubowski_-_Event-driven_architectures_in_Elixir.pdf) ]
 
+- [Event Sourcing in Real World Applications Challenges, Successes and Lessons Learned](https://www.youtube.com/watch?v=ESRjkG5f7wg) by [James Smith](https://twitter.com/st23am) @ ElixirConf 2018 - Building a real time auction application for supplying fuel to ships using event sourcing.
+
 - [Event Sourcing with Commanded](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) by [Andriy Drozdyuk](https://twitter.com/andriyko). [ [slides](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017/raw/2398395ef908696c580800be37a0cdbb1a7d60be/presentation/Eventsourcing%20with%20Commanded.pdf) | [repo](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) ]
 
 - [Implementing CQRS on top of OTP (in Elixir)](http://slides.com/hubertlepicki/implementing-cqrs-in-elixir) by Hubert Łępicki. [ [video](https://www.youtube.com/watch?v=0StE5LzYxGQ) ]
