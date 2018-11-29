@@ -76,27 +76,38 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ## Presentations
 
-- [Building CQRS/ES web applications in Elixir using Phoenix](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) by [Ben Smith](https://twitter.com/slashdotdash).
-
-- [Building beautiful systems with Phoenix contexts](https://www.youtube.com/watch?v=l3VgbSgo71E) by [Andrew Hao](https://github.com/andrewhao) @ ElixirDaze 2018 - Learn about Phoenix contexts from their origins in domain-driven design and how they help you to organise an Elixir application by providing rules around communication, boundary enforcement and testing. [ [slides](https://speakerdeck.com/andrewhao/building-beautiful-systems-with-phoenix-contexts-and-ddd) ]
-
-- [CQRS and Event Sourcing](https://www.youtube.com/watch?v=S3f6sAXa3-c) by [Bernardo Amorim](https://github.com/bamorim) @ Code Beam SF 2018 - A look into what Event Sourcing and Command Query Responsibility Segregation are and how they fit together, followed by a tutorial on how to implement an application using these concepts with Commanded (a framework for Elixir).
+### 2014
 
 - [CQRS with Erlang](https://vimeo.com/97318824) by [Bryan Hunter](https://twitter.com/bryan_hunter) @ NDC 2014 - Dive into CQRS, and explore a sample implementation written in Erlang. [ [slides](https://github.com/bryanhunter/cqrs-with-erlang/raw/ndc-oslo/cqrs-with-erlang.pptx) | [repo](https://github.com/bryanhunter/cqrs-with-erlang/tree/ndc-oslo) ]
 
-- [Event-driven architectures in Elixir](https://www.youtube.com/watch?v=8qDXG7tnl9w) by [Maciej Kaszubowski](https://github.com/mkaszubowski) @ ElixirConf EU 2018 - Learn how you can improve your architecture and reduce coupling by using events. [ [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/875/original/Maciej_Kaszubowski_-_Event-driven_architectures_in_Elixir.pdf) ]
-
-- [Event Sourcing in Real World Applications Challenges, Successes and Lessons Learned](https://www.youtube.com/watch?v=ESRjkG5f7wg) by [James Smith](https://twitter.com/st23am) @ ElixirConf 2018 - Building a real time auction application for supplying fuel to ships using event sourcing.
-
-- [Event Sourcing with Commanded](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) by [Andriy Drozdyuk](https://twitter.com/andriyko). [ [slides](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017/raw/2398395ef908696c580800be37a0cdbb1a7d60be/presentation/Eventsourcing%20with%20Commanded.pdf) | [repo](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) ]
+### 2016
 
 - [Implementing CQRS on top of OTP (in Elixir)](http://slides.com/hubertlepicki/implementing-cqrs-in-elixir) by Hubert Łępicki. [ [video](https://www.youtube.com/watch?v=0StE5LzYxGQ) ]
+
+### 2017
+
+- [Building CQRS/ES web applications in Elixir using Phoenix](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) by [Ben Smith](https://twitter.com/slashdotdash).
+
+- [Event Sourcing with Commanded](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) by [Andriy Drozdyuk](https://twitter.com/andriyko). [ [slides](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017/raw/2398395ef908696c580800be37a0cdbb1a7d60be/presentation/Eventsourcing%20with%20Commanded.pdf) | [repo](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) ]
 
 - [Intro to Event Sourcing and CQRS](https://drteeth.github.io/elixir-es-cqrs/) in Elixir by [Ben Moss](https://twitter.com/benjamintmoss).
 
 - [Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming](https://www.youtube.com/watch?v=kq4qTk18N-c) at ElixirConf 2017 by [Rob Martin](https://twitter.com/version2beta).
 
 - [Winter is coming](https://www.youtube.com/watch?v=vXTrLYAzOd0) by [Luis Ferreira](https://twitter.com/zamith) @ Functional Conf 2017 - Building maintainable applications by applying domain-driven design in Elixir using umbrella apps and its actor model. [ [slides](https://speakerdeck.com/zamith/winter-is-coming) | [video](https://www.youtube.com/watch?v=vXTrLYAzOd0) ]
+
+### 2018
+
+- [Building beautiful systems with Phoenix contexts](https://www.youtube.com/watch?v=l3VgbSgo71E) by [Andrew Hao](https://github.com/andrewhao) @ ElixirDaze 2018 - Learn about Phoenix contexts from their origins in domain-driven design and how they help you to organise an Elixir application by providing rules around communication, boundary enforcement and testing. [ [slides](https://speakerdeck.com/andrewhao/building-beautiful-systems-with-phoenix-contexts-and-ddd) ]
+
+- [CQRS and Event Sourcing](https://www.youtube.com/watch?v=S3f6sAXa3-c) by [Bernardo Amorim](https://github.com/bamorim) @ Code Beam SF 2018 - A look into what Event Sourcing and Command Query Responsibility Segregation are and how they fit together, followed by a tutorial on how to implement an application using these concepts with Commanded (a framework for Elixir).
+
+- [Event-driven architectures in Elixir](https://www.youtube.com/watch?v=8qDXG7tnl9w) by [Maciej Kaszubowski](https://github.com/mkaszubowski) @ ElixirConf EU 2018 - Learn how you can improve your architecture and reduce coupling by using events. [ [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/875/original/Maciej_Kaszubowski_-_Event-driven_architectures_in_Elixir.pdf) ]
+
+- [Event Sourcing in Elixir](https://www.youtube.com/watch?v=1lOUtisllFA) by [Pedro Assumpção](https://twitter.com/pedroassumpcao) @ ChicagoElixir Meetup, November 2018 - In this talk, Pedro quickly introduces Event Sourcing and CQRS, but the main part is about [FootBroker](https://footbroker.tk), an online soccer fantasy game that it is running in production in a beta stage, and has its main pieces using Event Sourcing and CQRS patterns.
+
+- [Event Sourcing in Real World Applications Challenges, Successes and Lessons Learned](https://www.youtube.com/watch?v=ESRjkG5f7wg) by [James Smith](https://twitter.com/st23am) @ ElixirConf 2018 - Building a real time auction application for supplying fuel to ships using event sourcing.
+
 
 ## Screencasts
 
