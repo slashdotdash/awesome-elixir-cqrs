@@ -44,6 +44,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Perhap](https://github.com/Perhap/perhap) - Purely functional event store and service framework inspired by domain driven design and reactive architectures.
 
+- [Seven Otters](https://github.com/sevenotters/sevenotters) - A CQRS/ES Starter Kit for the BEAM.
+
 ## Community resources
 
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - A (non language specific) curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
