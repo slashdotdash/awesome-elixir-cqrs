@@ -112,6 +112,9 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Event Sourcing in Real World Applications Challenges, Successes and Lessons Learned](https://www.youtube.com/watch?v=ESRjkG5f7wg) by [James Smith](https://twitter.com/st23am) @ ElixirConf 2018 - Building a real time auction application for supplying fuel to ships using event sourcing.
 
+### 2019
+
+- [Building Event Sourced Apps](https://speakerdeck.com/leifg/building-event-sourced-apps) by [Leif Gensert](https://twitter.com/leifg) @ London BEAM User Group, January 2019 - Instead of defining a global data model that fits all of your use cases think about the things your system does. Record the events that occur and then build multiple data models that fit your individual use cases.
 
 ## Screencasts
 
