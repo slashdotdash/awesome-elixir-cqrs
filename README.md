@@ -78,6 +78,10 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [My First Event Sourced Application](https://www.codementor.io/leifio/my-first-event-sourced-application-flj7z32hl) by [Leif Gensert](https://twitter.com/leifg) - Building an event sourced application using [Commanded](https://github.com/commanded/commanded).
 
+### 2019
+
+- [Event Sourcing With Elixir](https://blog.nootch.net/post/event-sourcing-with-elixir/) by [Bruno Antunes](https://twitter.com/b_antunes) - A multi-part blog series on event sourcing with Elixir using Commanded.
+
 ## Presentations
 
 ### 2014
