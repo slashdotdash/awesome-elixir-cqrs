@@ -48,6 +48,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Seven Otters](https://github.com/sevenotters/sevenotters) - A CQRS/ES Starter Kit for the BEAM.
 
+- [TeaVent](https://github.com/Qqwy/elixir-tea_vent) - TeaVent allows you to perform event-dispatching in a style that is a mixture of Event Sourcing and The "Elm Architecture" (TEA).
+
 ## Community resources
 
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - A (non language specific) curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
