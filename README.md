@@ -138,6 +138,10 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [DDD Shipping Example](https://github.com/pcmarks/ddd_elixir_demo_stage1) by [Peter C Marks](https://github.com/pcmarks) - Elixir implementation of the shipping example from Eric Evan's "Domain-driven Design: Tackling Complexity in the Heart of Software" book.
 
+- [Gift card demo](https://github.com/slashdotdash/gift-card-demo/) by [Ben Smith](https://twitter.com/slashdotdash) - a Commanded demo application focused around a simplified gift card domain using Phoenix LiveView for realtime UI updates.
+
+- [Segment Challenge](https://github.com/slashdotdash/segment-challenge/) by [Ben Smith](https://twitter.com/slashdotdash) - a full featured Elixir Phoenix web application built with Commanded used to host Strava competitions for athletes.
+
 - [Simple Pay](https://github.com/ChrisYammine/simple_pay) by [Christopher Yammine](https://github.com/ChrisYammine) - An exploration of using CQRS/ES with Elixir & EventStore database.
 
 ## License
