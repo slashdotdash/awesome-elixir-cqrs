@@ -122,6 +122,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Building Event Sourced Apps](https://speakerdeck.com/leifg/building-event-sourced-apps) by [Leif Gensert](https://twitter.com/leifg) @ London BEAM User Group, January 2019 - Instead of defining a global data model that fits all of your use cases think about the things your system does. Record the events that occur and then build multiple data models that fit your individual use cases.
 
+- [Event sourcing/CQRS in Elixir with Commanded: Where the rubber hits the road](https://drteeth.github.io/attend-elixir-talk/) by [Ben Moss](https://twitter.com/benjamintmoss) @ Toronto Elixir meetup, May 2019.
+
 ## Screencasts
 
 - [Building a single event sourced feature in Elixir using Commanded](https://www.youtube.com/watch?v=n7v73Rbk670) by [Shawn McCool](https://twitter.com/ShawnMcCool).
