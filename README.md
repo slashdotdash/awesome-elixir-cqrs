@@ -88,7 +88,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ### 2014
 
-- [CQRS with Erlang](https://vimeo.com/97318824) by [Bryan Hunter](https://twitter.com/bryan_hunter) @ NDC 2014 - Dive into CQRS, and explore a sample implementation written in Erlang. [ [slides](https://github.com/bryanhunter/cqrs-with-erlang/raw/ndc-oslo/cqrs-with-erlang.pptx) | [repo](https://github.com/bryanhunter/cqrs-with-erlang/tree/ndc-oslo) ]
+- [CQRS with Erlang](https://vimeo.com/97318824) by [Bryan Hunter](https://twitter.com/bryan_hunter) @ NDC 2014 - Dive into CQRS, and explore a sample implementation written in Erlang. [ [slides](https://github.com/bryanhunter/cqrs-with-erlang/raw/ndc-oslo/cqrs-with-erlang.pptx) | [source code](https://github.com/bryanhunter/cqrs-with-erlang/tree/ndc-oslo) ]
 
 ### 2016
 
@@ -98,7 +98,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Building CQRS/ES web applications in Elixir using Phoenix](https://10consulting.com/2017/03/23/building-cqrs-web-applications-in-elixir/) by [Ben Smith](https://twitter.com/slashdotdash).
 
-- [Event Sourcing with Commanded](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) by [Andriy Drozdyuk](https://twitter.com/andriyko). [ [slides](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017/raw/2398395ef908696c580800be37a0cdbb1a7d60be/presentation/Eventsourcing%20with%20Commanded.pdf) | [repo](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) ]
+- [Event Sourcing with Commanded](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) by [Andriy Drozdyuk](https://twitter.com/andriyko). [ [slides](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017/raw/2398395ef908696c580800be37a0cdbb1a7d60be/presentation/Eventsourcing%20with%20Commanded.pdf) | [source code](https://bitbucket.org/drozdyuk/bank-commanded-presentation-sep-25-2017) ]
 
 - [Intro to Event Sourcing and CQRS](https://drteeth.github.io/elixir-es-cqrs/) in Elixir by [Ben Moss](https://twitter.com/benjamintmoss).
 
@@ -124,7 +124,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Event sourcing in practice - Using Elixir to build event-driven applications](https://10consulting.com/2019/03/29/event-sourcing-in-practice/) by [Ben Smith](https://twitter.com/slashdotdash) @ Elixir London user group, March 2019 - Practical example of event sourcing in Elixir.
 
-- [Event sourcing/CQRS in Elixir with Commanded: Where the rubber hits the road](https://drteeth.github.io/attend-elixir-talk/) by [Ben Moss](https://twitter.com/benjamintmoss) @ Toronto Elixir meetup, May 2019.
+- [Event sourcing/CQRS in Elixir with Commanded: Where the rubber hits the road](https://drteeth.github.io/attend-elixir-talk/) by [Ben Moss](https://twitter.com/benjamintmoss) @ Toronto Elixir meetup, May 2019. [ [source code](https://github.com/drteeth/attend) ]
 
 ## Screencasts
 
