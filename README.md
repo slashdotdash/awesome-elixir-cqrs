@@ -28,8 +28,6 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Disco](https://github.com/andreapavoni/disco) - Simple, opinionated yet flexible library to build CQRS/ES driven systems.
 
-- [Eidetic](https://github.com/GT8Online/eidetic-elixir) - An event sourcing library for Elixir.
-
 - [ES](https://github.com/nerdyworm/es) - Event Sourcing for Ecto and Postgresl/Dynamodb events storage.
 
 - [EventBus](https://github.com/otobus/event_bus) - Traceable, extendable and minimalist event bus implementation for Elixir with built-in event store and event watcher based on ETS.
