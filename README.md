@@ -46,6 +46,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Maestro](https://github.com/toniqsystems/maestro) - An Elixir event store + CQRS library.
 
+- [Pachyderm](https://github.com/CrowdHailer/pachyderm) - A virtual/immortal/durable/resilient/global actor "always exists" and "never fails".
+
 - [Perhap](https://github.com/Perhap/perhap) - Purely functional event store and service framework inspired by domain driven design and reactive architectures.
 
 - [Seven Otters](https://github.com/sevenotters/sevenotters) - A CQRS/ES Starter Kit for the BEAM.
