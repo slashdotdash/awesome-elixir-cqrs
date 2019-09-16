@@ -44,6 +44,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Helios.Aggregate](https://github.com/exponentially/helios_aggregate) - Elixir library defining Aggregate behaviour and providing extendable facility for aggregate command pipeline.
 
+- [Incident](https://github.com/pedroassumpcao/incident) - Event Sourcing and CQRS in Elixir abstractions.
+
 - [Maestro](https://github.com/toniqsystems/maestro) - An Elixir event store + CQRS library.
 
 - [Pachyderm](https://github.com/CrowdHailer/pachyderm) - A virtual/immortal/durable/resilient/global actor "always exists" and "never fails".
