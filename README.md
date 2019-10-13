@@ -90,6 +90,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Event Sourcing With Elixir](https://blog.nootch.net/post/event-sourcing-with-elixir/) by [Bruno Antunes](https://twitter.com/b_antunes) - A multi-part blog series on event sourcing with Elixir using Commanded.
 
+- [My Journey into CQRS and Event Sourcing](https://medium.com/@rodrigo.botti/my-journey-into-cqrs-and-event-sourcing-4bd7d0c1c670) by [Rodrigo Botti](https://github.com/rodrigobotti) - Learning these patterns by building a patient consent example application in Elixir.
+
 ## Presentations
 
 ### 2014
