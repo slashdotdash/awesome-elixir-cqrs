@@ -92,6 +92,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [My Journey into CQRS and Event Sourcing](https://medium.com/@rodrigo.botti/my-journey-into-cqrs-and-event-sourcing-4bd7d0c1c670) by [Rodrigo Botti](https://github.com/rodrigobotti) - Learning these patterns by building a patient consent example application in Elixir.
 
+- [Creating a single-node Elixir/Phoenix web app with Commanded & Postgres](https://bitfield.co/commanded-part1/) by [Ben Moss](https://github.com/drteeth) - A blog post series to walk the reader through installing and configuring Commanded for use in a single-node Phoenix web app backed by Postgres.
+
 ## Presentations
 
 ### 2014
