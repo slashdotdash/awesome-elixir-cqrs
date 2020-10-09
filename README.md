@@ -146,7 +146,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ### 2020
 
-[Event Sourcing with Elixir](https://github.com/PJUllrich/event-sourcing-with-elixir) by [Peter Ullrich](https://twitter.com/PJUllrich) @ ElixirConf EU 2020 - Introduction to event sourcing with examples using EventStore. [ [slides](https://raw.githubusercontent.com/PJUllrich/event-sourcing-with-elixir/master/slides.pdf) ]
+- [Event Sourcing with Elixir](https://github.com/PJUllrich/event-sourcing-with-elixir) by [Peter Ullrich](https://twitter.com/PJUllrich) @ ElixirConf EU 2020 - Introduction to event sourcing with examples using EventStore. [ [slides](https://raw.githubusercontent.com/PJUllrich/event-sourcing-with-elixir/master/slides.pdf) ]
 
 ## Screencasts
 
