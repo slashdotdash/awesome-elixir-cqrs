@@ -144,6 +144,10 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [gen_persistence: persist the state of your processes](https://www.youtube.com/watch?v=g-2qYXMexg8) by [Benoît Chesneau](https://twitter.com/benoitc) @ Code BEAM STO 2019 - This talk describes the usage of `gen_persistence` and how to create custom plugins to store events and snapshots. [ [slides](https://codesync.global/uploads/media/activity_slides/0001/02/66d3ad28168e01c69a8887fe5fc21364396d28bc.pdf) ]
 
+### 2020
+
+[Event Sourcing with Elixir](https://github.com/PJUllrich/event-sourcing-with-elixir) by [Peter Ullrich](https://twitter.com/PJUllrich) @ ElixirConf EU 2020 - Introduction to event sourcing with examples using EventStore. [ [slides](https://raw.githubusercontent.com/PJUllrich/event-sourcing-with-elixir/master/slides.pdf) ]
+
 ## Screencasts
 
 - [Building a single event sourced feature in Elixir using Commanded](https://www.youtube.com/watch?v=n7v73Rbk670) by [Shawn McCool](https://twitter.com/ShawnMcCool).
