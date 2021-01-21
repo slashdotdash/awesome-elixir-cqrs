@@ -94,6 +94,10 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Creating a single-node Elixir/Phoenix web app with Commanded & Postgres](https://bitfield.co/commanded-part1/) by [Ben Moss](https://github.com/drteeth) - A blog post series to walk the reader through installing and configuring Commanded for use in a single-node Phoenix web app backed by Postgres.
 
+### 2021
+
+- [Building an event-sourced game with Phoenix Liveview](https://blog.chorip.am/articles/phoenix-liveview-event-sourced-game-intro) by [Charles Desneuf](https://twitter.com/SelrahcD) - A series on building an event-sourced game in Elixir with Phoenix Liveview.
+
 ## Presentations
 
 ### 2014
