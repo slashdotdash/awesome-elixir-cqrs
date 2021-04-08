@@ -171,6 +171,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Bank](https://github.com/bamorim/commanded-bank) by [Bernardo Amorim](https://github.com/bamorim) - Sample Application for Elixir Brasil Talk.
 
+- [Bonfire](https://github.com/qhwa/bonfire) by [Qiu Hua](https://github.com/qhwa) - A small project for exploring some interesting approaches to a delightful web application.
+
 - [Coins](https://github.com/bamorim/ex-cbsf2018) by [Bernardo Amorim](https://github.com/bamorim) - An example app using CQRS and Event Sourcing built with Commanded for a talk at CodeBEAM SF 2018.
 
 - [Conduit](https://github.com/slashdotdash/conduit) - A blogging platform, an exemplary Medium.com clone, built as a Phoenix web application.
