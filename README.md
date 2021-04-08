@@ -9,6 +9,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 - [Books](#books)
 - [Articles](#articles)
 - [Presentations](#presentations)
+- [Research papers](#research-papers)
 - [Screencasts](#screencasts)
 - [Example applications](#example-applications)
 
@@ -151,6 +152,16 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 ### 2020
 
 - [Event Sourcing with Elixir](https://github.com/PJUllrich/event-sourcing-with-elixir) by [Peter Ullrich](https://twitter.com/PJUllrich) @ ElixirConf EU 2020 - Introduction to event sourcing with examples using EventStore. [ [slides](https://raw.githubusercontent.com/PJUllrich/event-sourcing-with-elixir/master/slides.pdf) ]
+
+## Research papers
+
+### 2017
+
+- [The Dark Side of Event Sourcing: Managing Data Conversion](https://www.movereem.nl/files/2017SANER-eventsourcing.pdf) by Michiel Overeem, Marten Spoor, and Slinger Jansen.
+
+### 2021
+
+- [An Empirical Characterization of Event Sourced Systems and Their Schema Evolution - Lessons from Industry](https://arxiv.org/abs/2104.01146) by Michiel Overeem, Marten Spoor, Slinger Jansen, Sjaak Brinkkemper.
 
 ## Screencasts
 
