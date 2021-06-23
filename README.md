@@ -101,6 +101,8 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Getting started with Elixir and EventStoreDB with the Spear gRPC client](https://www.eventstore.com/blog/getting-started-with-elixir-and-eventstoredb-with-the-spear-grpc-client) by Michael Davis.
 
+- [Tackling software complexity with the CELP stack](http://evrl.com/agile,/elixir/2021/01/15/the-CEL-stack.html) by [Cees de Groot](https://twitter.com/cdegroot).
+
 ## Presentations
 
 ### 2014
