@@ -9,6 +9,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 - [Books](#books)
 - [Articles](#articles)
 - [Presentations](#presentations)
+- [Podcasts](#podcasts)
 - [Research papers](#research-papers)
 - [Screencasts](#screencasts)
 - [Example applications](#example-applications)
@@ -155,11 +156,20 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ### 2020
 
-- [Event Sourcing with Elixir](https://www.youtube.com/watch?v=mmRxrq8hELY) by [Peter Ullrich](https://twitter.com/PJUllrich) @ ElixirConf EU Virtual 2020 - Introduction to event sourcing with examples using EventStore. [ [slides](https://raw.githubusercontent.com/PJUllrich/event-sourcing-with-elixir/master/slides.pdf) [source](https://github.com/PJUllrich/event-sourcing-with-elixir) ]
+- [Event Sourcing with Elixir](https://www.youtube.com/watch?v=mmRxrq8hELY) by [Peter Ullrich](https://twitter.com/PJUllrich) @ ElixirConf EU Virtual 2020 - Introduction to event sourcing with examples using EventStore. [ [slides](https://raw.githubusercontent.com/PJUllrich/event-sourcing-with-elixir/master/slides.pdf) | [source](https://github.com/PJUllrich/event-sourcing-with-elixir) ]
 
 ### 2021
 
 - [Modelling complex business domains with events](https://www.youtube.com/watch?v=hE5GymSyKXM) by [Ben Smith](https://twitter.com/slashdotdash) @ Alchemy Conf 2021 - Discover how we can use domain events (simple facts relevant to a business) to model business processes. Using tools such as Event Storming we can design our applications around these events. [ [slides](https://10consulting.com/presentations/alchemy-conf-2021/) ]
+
+## Podcasts
+
+## 2021
+
+- [Elixir Mix
+ #148 Event Sourcing and CQRS ft. Ben Moss](https://elixirmix.com/event-sourcing-and-cqrs-ft-ben-moss-emx-148) - Discusion about Event Sourcing and CQRS in Elixir. Event sourcing is the practice of logging data across logged series of events and then reconstructing data from the events. CQRS is focused on keeping read and write operations from conflicting.
+
+- [Thinking Elixir #075 RabbitMQ and Commanded at Simplebet with Dave Lucia](https://thinkingelixir.com/podcast-episodes/075-rabbitmq-and-commanded-at-simplebet-with-dave-lucia/) - Talk about Simplebet's use of RabbitMQ and Commanded for solving unique real-time problems. We learn how Simplebet uses Elixir when creating real-time sports betting markets. We also learn what CQRS systems are, how the Commanded library supports that in Elixir, and how Commanded pairs well with RabbitMQ.
 
 ## Research papers
 
