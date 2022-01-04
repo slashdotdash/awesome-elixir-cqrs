@@ -160,6 +160,9 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ### 2021
 
+- [Eventsourcing and CQRS in Elixir](https://www.youtube.com/watch?v=NTzP_5CHqKk) by Vasilis Spilka @ ElixirConf EU 2021 -
+In this talk, we will go through how we can build an eventsourced application using simple abstractions provided to us by the Commanded library. [ [slides](https://drive.google.com/file/d/1a4TKyAXJ00WiMjKtPHjAJMkLp4SplZLv/view) ]
+
 - [Modelling complex business domains with events](https://www.youtube.com/watch?v=hE5GymSyKXM) by [Ben Smith](https://twitter.com/slashdotdash) @ Alchemy Conf 2021 - Discover how we can use domain events (simple facts relevant to a business) to model business processes. Using tools such as Event Storming we can design our applications around these events. [ [slides](https://10consulting.com/presentations/alchemy-conf-2021/) ]
 
 ## Podcasts
