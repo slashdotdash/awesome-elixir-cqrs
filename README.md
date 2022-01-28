@@ -69,6 +69,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 ## Books
 
 - [Building Conduit](https://leanpub.com/buildingconduit) - Applying CQRS/ES to an Elixir and Phoenix web app.
+- [Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition) - A book that teaches how to build production-quality distributed applications using the Elixir programming language.
 
 ## Articles
 
@@ -87,6 +88,14 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 - [Event Sourcing in React, Redux & Elixir](https://medium.com/rapport-blog/event-sourcing-in-react-redux-elixir-how-we-write-fast-scalable-real-time-apps-at-rapport-4a26c3aa7529) by [Gary McAdam](https://twitter.com/gpmcadam) - How we write fast, scalable, real-time apps at Rapport.
 
 - [My First Event Sourced Application](https://www.codementor.io/leifio/my-first-event-sourced-application-flj7z32hl) by [Leif Gensert](https://twitter.com/leifg) - Building an event sourced application using [Commanded](https://github.com/commanded/commanded).
+
+- [Dipping your Toes into Elixir](https://freecontent.manning.com/dipping-your-toes-into-elixir/) by [Saša Jurić](https://github.com/sasa1977) - A short overview of Erlang and the benefits of Elixir.
+
+- [Implementing a Supervisor with Elixir and OTP](https://freecontent.manning.com/little-elixir-and-otp-implementing-a-supervisor/) by [Benjamin Tan Wei Hao](https://github.com/benjamintanweihao) - A guide into implementing his/her own supervisor.
+
+- [Little Elixir: OTP Behaviours](https://freecontent.manning.com/little-elixir-otp-behaviours/) by [Benjamin Tan Wei Hao](https://github.com/benjamintanweihao) - An introduction to OTP behaviours.
+
+- [Ride the Phoenix](https://freecontent.manning.com/ride-the-phoenix/) by [Geoffrey Lessel](https://github.com/geolessel) - An introduction to web development using Elixir and the Phoenix framework.
 
 ### 2019
 
