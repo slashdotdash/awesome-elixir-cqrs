@@ -206,6 +206,8 @@ In this talk, we will go through how we can build an eventsourced application us
 
 - [Simple Pay](https://github.com/ChrisYammine/simple_pay) by [Christopher Yammine](https://github.com/ChrisYammine) - An exploration of using CQRS/ES with Elixir & EventStore database.
 
+- [Honeydew](https://github.com/quarterpi/honeydew) by [Matthew Moody](https://github.com/quarterpi) - A very basic example to help you get started with the CELP (Commanded, Elixir, LiveView, PostgreSQL) stack.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
