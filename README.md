@@ -104,6 +104,12 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Tackling software complexity with the CELP stack](http://evrl.com/agile,/elixir/2021/01/15/the-CEL-stack.html) by [Cees de Groot](https://twitter.com/cdegroot).
 
+### 2022
+
+- [Using CQRS in a simple Phoenix API with Commanded](https://dev.to/christianalexander/using-cqrs-in-a-simple-phoenix-api-with-commanded-364k) by [Christian Alexander](https://twitter.com/RootCert)
+
+- [Adding soft delete to a Phoenix Commanded (CQRS) API](https://dev.to/christianalexander/adding-soft-delete-to-a-phoenix-commanded-cqrs-api-516h) by [Christian Alexander](https://twitter.com/RootCert)
+
 ## Presentations
 
 ### 2014
