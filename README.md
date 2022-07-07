@@ -98,7 +98,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ### 2021
 
-- [Building an event-sourced game with Phoenix Liveview](https://blog.chorip.am/articles/phoenix-liveview-event-sourced-game-intro) by [Charles Desneuf](https://twitter.com/SelrahcD) - A series on building an event-sourced game in Elixir with Phoenix Liveview.
+- [Building an event-sourced game with Phoenix Liveview](https://blog.charlesdesneuf.com/articles/phoenix-liveview-event-sourced-game-intro) by [Charles Desneuf](https://twitter.com/SelrahcD) - A series on building an event-sourced game in Elixir with Phoenix Liveview.
 
 - [Getting started with Elixir and EventStoreDB with the Spear gRPC client](https://www.eventstore.com/blog/getting-started-with-elixir-and-eventstoredb-with-the-spear-grpc-client) by Michael Davis.
 
