@@ -106,9 +106,12 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 ### 2022
 
+- [Adding soft delete to a Phoenix Commanded (CQRS) API](https://dev.to/christianalexander/adding-soft-delete-to-a-phoenix-commanded-cqrs-api-516h) by [Christian Alexander](https://twitter.com/RootCert)
+
+- [Supercharging our event-sourcing capabilities with Phoenix LiveView](https://medium.com/casavo/supercharging-our-event-sourcing-capabilities-with-phoenix-liveview-c4a9d1d4ab99) by [Simone D'Avico](https://sdavico.medium.com/) - Building visual tools to tame event sourcing architecture complexity.
+
 - [Using CQRS in a simple Phoenix API with Commanded](https://dev.to/christianalexander/using-cqrs-in-a-simple-phoenix-api-with-commanded-364k) by [Christian Alexander](https://twitter.com/RootCert)
 
-- [Adding soft delete to a Phoenix Commanded (CQRS) API](https://dev.to/christianalexander/adding-soft-delete-to-a-phoenix-commanded-cqrs-api-516h) by [Christian Alexander](https://twitter.com/RootCert)
 
 ## Presentations
 
