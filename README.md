@@ -62,7 +62,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - A (non language specific) curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
 
-- [DDD/CQRS/ES Slack](https://ddd-cqrs-es.slack.com) - A Slack team for those who want to chat about domain-driven design, CQRS, event Sourcing, and sometimes random things. Main channel is language and framework agnostic. [Join **ddd-cqrs-es** on Slack](https://j.mp/ddd-es-cqrs) to get an invite.
+- [DDD/CQRS/ES Discord](https://discord.gg/sEZGSHNNbH) - A Discord server for those who want to chat about domain-driven design, CQRS, event sourcing, and sometimes random things. Main channel is language and framework agnostic. [Join ddd-cqrs-es Discord server](https://discord.gg/sEZGSHNNbH)
 
 - [Elixir lang Slack](https://elixir-lang.slack.com/) - This offical Elixir language Slack team includes an [#eventsourcing](https://elixir-lang.slack.com/messages/C2REECQ1Z/) channel for CQRS/ES and Elixir discussion. [Join **Elixir** on Slack](https://elixir-slackin.herokuapp.com/) to get an invite.
 
