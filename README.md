@@ -69,6 +69,7 @@ A curated list of awesome Elixir, Command Query Responsibility Segregation (CQRS
 ## Books
 
 - [Building Conduit](https://leanpub.com/buildingconduit) - Applying CQRS/ES to an Elixir and Phoenix web app.
+- [Real-World Event Sourcing](https://pragprog.com/titles/khpes/real-world-event-sourcing/) - Distribute, Evolve, and Scale Your Elixir Applications
 
 ## Articles
 
